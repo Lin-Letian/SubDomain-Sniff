@@ -2,7 +2,12 @@
 SubDomain Sniff-综合子域名嗅探工具，集成3个搜索引擎+4个API(包括SSL证书)+爆破子域名或关联域名
 
 ###########环境依赖
-2022.12.03
+
+python版本：3.9.5
+site-packages -> pip install -r requirements.txt
+
+
+
 作者：林乐天
 https://birdy02.com
 https://www.birdy02.com/261558.htm
