@@ -4,6 +4,7 @@ SubDomain Sniff-综合子域名嗅探工具，集成3个搜索引擎+4个API(包
 ###########环境依赖
 
 python版本：3.9.5
+
 site-packages -> pip install -r requirements.txt
 
 
