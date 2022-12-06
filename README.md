@@ -33,9 +33,10 @@ DNS子域名爆破
 
 
 ###########目录结构描述
-├── Readme.md                   // help
-├── start.exe                   // 应用=>exe
-├── start.py                    // 应用=>py
+
+ ├── Readme.md                   // help
+ ├── start.exe                   // 应用=>exe
+ ├── start.py                    // 应用=>py
 ├── config                      // 配置
 │   ├── baidu_cookie.ini        // 百度Cookie
 │   ├── fofa_key.ini            // FOFA_API_Key 
