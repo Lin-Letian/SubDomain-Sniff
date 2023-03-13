@@ -1,12 +1,5 @@
-# SubDomain-Sniff
+    # SubDomain-Sniff
 SubDomain Sniff-综合子域名嗅探工具，集成3个搜索引擎+4个API(包括SSL证书)+爆破子域名或关联域名
-
-###环境依赖
-
-python版本：3.8.10
-
-site-packages -> pip install -r requirements.txt
-
 
 版本：2023.03.01
 
@@ -24,6 +17,24 @@ site-packages -> pip install -r requirements.txt
     6. Hackertarget 进行子域名搜集
     7. FOFA_Api 进行子域名搜集
     8. dns子域名爆破
+
+###环境依赖
+
+python版本：3.8.10
+
+site-packages -> pip install -r requirements.txt
+
+更新
+
+    v. 2023.03.13
+
+    对所有代码框架重新构造，封装class
+
+    新增配置监测模块
+
+    新增URIstatus模块，对域名一键监测可用性
+
+    对DNS爆破添加多线程功能
 
 
 配置：
